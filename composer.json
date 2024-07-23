@@ -9,9 +9,7 @@
 	"license": "GPL-3.0-or-later",
 	"require": {
 		"php": "^8.0",
-		"ext-curl": "*",
-		"ext-intl": "*",
-		"ext-json": "*",
+		"ext-mongodb": "*",
 		"mongodb/laravel-mongodb": "^v3.9.5"
 	},
 	"config": {
