@@ -1,6 +1,6 @@
 {
 	"name": "oceancodex/wpsp-mongodb",
-	"version": "8.1.0",
+	"version": "8.0.0",
 	"description": "WordPress Starter Plugin - MongoDB",
 	"type": "wordpress-plugin",
 	"keywords": [
@@ -8,11 +8,11 @@
 	],
 	"license": "GPL-3.0-or-later",
 	"require": {
-		"php": "^8.1",
+		"php": "^8.0",
 		"ext-curl": "*",
 		"ext-intl": "*",
 		"ext-json": "*",
-		"mongodb/laravel-mongodb": "^4.7.0"
+		"mongodb/laravel-mongodb": "^v3.9.5"
 	},
 	"config": {
 		"sort-packages": true
