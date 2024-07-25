@@ -2,11 +2,9 @@
 	"name": "oceancodex/wpsp-mongodb",
 	"version": "7.4.0",
 	"description": "WordPress Starter Plugin - MongoDB",
-	"type": "wordpress-plugin",
 	"keywords": [
-		"wordpress plugin"
 	],
-	"license": "GPL-3.0-or-later",
+	"license": "MIT",
 	"require": {
 		"php": "^7.4",
 		"ext-mongodb": "*",
