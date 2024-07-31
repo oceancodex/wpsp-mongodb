@@ -7,7 +7,6 @@
 	"license": "MIT",
 	"require": {
 		"php": "^8.2",
-		"ext-mongodb": "*",
 		"mongodb/laravel-mongodb": "^4.7.0"
 	},
 	"config": {
